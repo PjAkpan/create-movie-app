@@ -1,0 +1,15 @@
+{
+  "name": "create-movie-app",
+  "description": "description",
+  "version": "0.0.0",
+  "author": "Peace Johnson <115987850+PjAkpan@users.noreply.github.com>",
+  "bin": "src/cli.js",
+  "files": [
+    "src",
+    "templates"
+  ],
+  "dependencies": {
+    "create-create-app": "^7.3.0"
+  },
+  "license": "MIT"
+}
